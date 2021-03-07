@@ -16,3 +16,13 @@
   gap: 6.25rem;
   align-content: center;
 }
+
+@media only screen and (max-width: 767px){
+  .container section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px 0;
+    flex: 1;
+  }
+}

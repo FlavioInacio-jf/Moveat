@@ -1,34 +1,153 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+     📱 <a href="#" alt="site do controltt"> Pizzaria </a>
+</h1>
 
-## Getting Started
+<h3 align="center">
+    🌱 Descrição 💚
+</h3>
 
-First, run the development server:
+<p align="center">
+
+  <img src="https://img.shields.io/static/v1?label=HTML&message=70.1%&color=F16529&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=CSS&message=29.9%&color=D4EDDA&style=<STYLE>&logo=<LOGO>">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FlavioInacio-jf/ccontroltt">
+
+  <a href="https://github.com/FlavioInacio-jf/ccontroltt/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/FlavioInacio-jf/ccontroltt">
+  </a>
+
+  <a href="https://github.com/FlavioInacio-jf/ccontroltt/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/FlavioInacio-jf/ccontroltt">
+  </a>
+
+   <a href="https://github.com/FlavioInacio-jf/ccontroltt/blob/master/LICENSE">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/FlavioInacio-jf/ccontroltt">
+  </a>
+</p>
+
+
+
+<h4 align="center">
+	🚧  Moveat 👨🏾‍💻 Finalizado... 🚀 🚧
+</h4>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-autor">Autor</a> •
+ <a href="#user-content--licença">Licença</a>
+</p>
+
+
+## 💻 Sobre o projeto
+
+♻️ Controle de estufa feito em ReactJs e NextJs.
+
+---
+
+## ⚙️ Funcionalidades
+
+- [x]
+
+---
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no na pasta 'design':
+
+
+### Layout Mobile
+
+<p align="center">
+  <img alt="Print Mobile" title="#print-mobile" src="assets/print-mobile.png" width="500px">
+</p>
+
+### Layout Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ControllTT" title="#" src="./assets/print-desktop.png" width="800px">
+
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com).
+[yarn](https://yarnpkg.com/getting-started).
+[Node](https://nodejs.org/en/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
+#### 🧭 Rodando a aplicação web (Frontend)
 
 ```bash
-npm run dev
+
+# Clone este repositório
+$ git clone git@github.com:FlavioInacio-jf/README-ccontroltt.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd README-ccontroltt
+
+# Vá para a pasta da aplicação Front End
+$ cd web
+
+## Vá para a pasta da aplicação Front End
+$ npm run dev
 # or
-yarn dev
+$ yarn dev
 ```
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador e veja o resultado.
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tecnologias
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+#### **Website**    ()
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJs](https://pt-br.reactjs.org/)
+- [Next.Js](https://nextjs.org/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#### [](https://github.com/FlavioInacio-jf/ControlTT#utilit%C3%A1rios)**Utilitários**
 
-## Learn More
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+-   Fontes:  **[Rajdhani](https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom)**,  **[Inter](https://fonts.google.com/specimen/Inter?preview.text_type=custom)**
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 💪 Como contribuir para o projeto
 
-## Deploy on Vercel
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🦸 Autor
+ <img style="border-radius: 50%;" src="https://i.ibb.co/B26fQkK/capture-Fl-vio-In-cio.jpg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Flávio Inácio</b></sub>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Flávio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)](https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)
+[![Gmail Badge](https://img.shields.io/badge/-jflavioinacio22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jflavioinacio@gmail.com)](mailto:jflavioinacio22@gmail.com)
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feit por Flávio Inácio 👋🏽 [Entre em contato!](https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/)
