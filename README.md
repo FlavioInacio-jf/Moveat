@@ -11,9 +11,8 @@
 
 <p align="center">
 	
-  <img src="https://img.shields.io/static/v1?label=Html&message=2.0%&color=835afd&style=<STYLE>&logo=<LOGO>">
-  <img src="https://img.shields.io/static/v1?label=Scss&message=29.2%&color=835afd&style=<STYLE>&logo=<LOGO>">
-  <img src="https://img.shields.io/static/v1?label=TypeScript&message=68.8%&color=835afd&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=css&message=32.8%&color=835afd&style=<STYLE>&logo=<LOGO>">
+  <img src="https://img.shields.io/static/v1?label=TypeScript&message=67.2%&color=835afd&style=<STYLE>&logo=<LOGO>">
     
 </p>
 
@@ -35,7 +34,7 @@
 
 ## 💻 Sobre o projeto
 
-O projeto Letmeask foi desenvolvido durante a NLW Together da Rocketseat. A aplicação e feita utilizando o ReactJS e o conceito de SPA(Single page aplication). O Firebase foi utilizado para fazer a autenticação com o Google e para utlizar o Realtime Database. O context API foi utlizado para compartilhar informações entres os componentes.
+O projeto Moveat foi desenvolvido durante a NLW 4 da Rocketseat. A aplicação e feita utilizando o ReactJS e o Next. O context API foi utlizado para compartilhar informações entres os componentes.
 
 ---
 
@@ -85,7 +84,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[React.js](https://pt-br.reactjs.org/)**
 - **[Next js](https://nextjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
-- **[Scss](https://sass-lang.com/)**
+- **[Css](https://sass-lang.com/)**
 
 #### [](https://github.com/FlavioInacio-jf/ControlTT#utilit%C3%A1rios)**Utilitários**
 
