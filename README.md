@@ -6,7 +6,7 @@
 	📱 Moveat
 </h1>
 <h3 align="center">
-    🌱 Entre em uma sala ja existente ou crie uma nova sala utlizando a autênticação com o Google. Faça perguntas, curta, ou até mesmo se você for o criador, exclua ou destaque  	as perguntas. Este é o objetivo do Letmeask!! Site desenvolvido utilizando o React.js.💚
+    🌱 Neste projeto desenvolvido em Next js, é possivel realizar desafios durante um tempo programado e ganhar xps para avançar para o proximo nivel.💚
 </h3>
 
 <p align="center">
@@ -34,16 +34,12 @@
 
 ## 💻 Sobre o projeto
 
-O projeto Moveat foi desenvolvido durante a NLW 4 da Rocketseat. A aplicação e feita utilizando o ReactJS e o Next. O context API foi utlizado para compartilhar informações entres os componentes.
-
+O projeto Moveat foi desenvolvido durante a NLW 4 da Rocketseat. A aplicação e feita utilizando o Next js. O js-cookie foi utilizado para salvar os dados dos desafios nos cookies do navegador.
 ---
 
 ## ⚙️ Funcionalidades
 
-- Criar sala
-- Fazer perguntas e curtir perguntas favoritas
-- Excluir e destacar perguntas(Administrador)
-- Encerrar sala(Administrador)
+- Ganhe xp ao realizar os desafios
 ---
 
 
@@ -62,10 +58,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/FlavioInacio-jf/letmeask
+$ git clone https://github.com/FlavioInacio-jf/moveat
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd letmeask
+$ cd moveat
 
 # Instale as depêndencias
 $ yarn
@@ -81,10 +77,10 @@ $ yarn start
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website** 
-- **[React.js](https://pt-br.reactjs.org/)**
 - **[Next js](https://nextjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
-- **[Css](https://sass-lang.com/)**
+- **[Sass](https://sass-lang.com/)**
+- **[js-cookie](https://github.com/js-cookie/js-cookie)**
 
 #### [](https://github.com/FlavioInacio-jf/ControlTT#utilit%C3%A1rios)**Utilitários**
 
